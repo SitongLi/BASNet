@@ -1,3 +1,4 @@
+# Modified for new version torch
 import torch
 import torchvision
 from torch.autograd import Variable

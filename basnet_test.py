@@ -1,3 +1,4 @@
+# Modified for new version torch
 import os
 from skimage import io, transform
 import torch
